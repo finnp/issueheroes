@@ -1,4 +1,4 @@
-# issueheros
+# issueheroes
 
 See most activae commentors on a github repo. Shows the progress of the calculation
 while fetching the data.
